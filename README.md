@@ -7,7 +7,7 @@ Criss-Cross is a Python-based **face detection image processor** designed to det
 
 ## Features
 - Detects people in images for safe road crossing scenarios.
-- Uses **OpenCV** for image processing and face detection.
+- Uses **OpenCV** for image processing face detection and motion detection.
 - Efficient and lightweight design suitable for real-time processing.
 - Modular code structure for easy integration into other projects.
 
